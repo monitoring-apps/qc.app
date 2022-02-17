@@ -15,7 +15,7 @@ status-website:
   cname: status.quirkclub.io
   # baseUrl: /qc.app
   name: Quirk Club
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png
   icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png #TODO: change url.
   introTitle: "**Quirk Club** status."
   introMessage: Quirk club status page which uses **real-time** data.
