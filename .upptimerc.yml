@@ -21,7 +21,10 @@ status-website:
   introMessage: Quirk club status page which uses **real-time** data.
   favicon: https://quirkclub-dev.web.app/assets/icon/favicon.png
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Quirk Club - Institutional
+      href: https://quirkclub.io
+    - title: Quirk Club - Argentina
+      href: https://quirkclub.app
+      #href: https://ar.quirkclub.app
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
