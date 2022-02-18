@@ -17,18 +17,18 @@ sites:
     headers:
       - "api-key: $API_KEY"
     icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg
-    maxResponseTime: 5000
+    maxResponseTime: 4000
   - name: Quirk Club Argentina (Payment Gateway)
     method: POST
     url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/payment-gateway-ml
     headers:
       - "api-key: $API_KEY"
     icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/credit-card.svg
-    maxResponseTime: 5000
+    maxResponseTime: 4000
   - name: Quirk Club Argentina (SSR)  
     url: https://quirkclub-dev.web.app/ssr-check
     __dangerous__body_down: "<title>QuirkClub</title>"
-    maxResponseTime: 5000
+    maxResponseTime: 4000
     
     
 status-website:
