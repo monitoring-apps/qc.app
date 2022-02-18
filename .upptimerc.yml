@@ -10,12 +10,25 @@ sites:
   - name: Quirk Club Argentina
     url: https://quirkclub.app
     icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png #TODO: change url.
-  - name: Quirk Club Argentina (API)
-    url: https://us-central1-quirkclub-c760d.cloudfunctions.net/api/lot/search?language=en&status=BOOKING
+    maxResponseTime: 5000
+  - name: Quirk Club Argentina (API endpoint)
+    method: POST
+    url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/api
+    headers:
+      - "api-key: $API_KEY"
     icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg
+    maxResponseTime: 5000
   - name: Quirk Club Argentina (Payment Gateway)
-    url: https://us-central1-quirkclub-c760d.cloudfunctions.net/api/check/payment-gateway
+    method: POST
+    url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/payment-gateway-ml
+    headers:
+      - "api-key: $API_KEY"
     icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/credit-card.svg
+    maxResponseTime: 5000
+  - name: Quirk Club Argentina (SSR)  
+    url: https://quirkclub-dev.web.app/ssr-check
+    __dangerous__body_down: "<title>QuirkClub</title>"
+    
     
 status-website:
   theme: ocean
