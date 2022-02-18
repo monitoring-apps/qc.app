@@ -1,7 +1,7 @@
-url: https://us-central1-quirkclub-c760d.cloudfunctions.net/api/check/payment-gateway
+url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/payment-gateway-ml
 status: down
-code: 404
-responseTime: 47
-lastUpdated: 2022-02-17T23:30:05.914Z
+code: 401
+responseTime: 44
+lastUpdated: 2022-02-18T17:59:34.531Z
 startTime: Thu Feb 17 2022 17:48:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
