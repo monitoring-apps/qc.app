@@ -40,8 +40,8 @@ status-website:
   name: Quirk Club
   logoUrl: https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png
   icon: https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png #TODO: change url.
-  introTitle: "**Quirk Club** status."
-  introMessage: Quirk club status page which uses **real-time** data.
+  introTitle: "**Quirk Club** sites status."
+  introMessage: Here you will find the service status of the entire Quirk Club platform
   favicon: https://quirkclub-dev.web.app/assets/icon/favicon.png
   navbar:
     - title: Quirk Club - Institutional
