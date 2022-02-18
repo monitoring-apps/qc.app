@@ -28,6 +28,7 @@ sites:
   - name: Quirk Club Argentina (SSR)  
     url: https://quirkclub-dev.web.app/ssr-check
     __dangerous__body_down: "<title>QuirkClub</title>"
+    maxResponseTime: 5000
     
     
 status-website:
