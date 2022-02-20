@@ -40,18 +40,20 @@
     "url": "https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/api",
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg",
     "slug": "quirk-club-argentina-api-endpoint",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 89,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
-    "dailyMinutesDown": {}
+    "time": 991,
+    "timeDay": 2771,
+    "timeWeek": 991,
+    "timeMonth": 991,
+    "timeYear": 991,
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "Quirk Club Argentina (Payment Gateway)",
