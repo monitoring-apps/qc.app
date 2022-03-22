@@ -62,19 +62,19 @@
     "url": "https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/payment-gateway-ml",
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/credit-card.svg",
     "slug": "quirk-club-argentina-payment-gateway",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 2743,
-    "timeWeek": 1107,
-    "timeMonth": 879,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 742,
+    "timeDay": 1935,
+    "timeWeek": 1019,
+    "timeMonth": 862,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 13
     }
   },
   {
