@@ -91,19 +91,19 @@
     "url": "https://quirkclub-dev.web.app/ssr-check",
     "icon": "https://favicons.githubusercontent.com/quirkclub-dev.web.app",
     "slug": "quirk-club-argentina-ssr",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.91%",
-    "time": 400,
-    "timeDay": 3389,
-    "timeWeek": 1607,
-    "timeMonth": 600,
-    "timeYear": 400,
+    "status": "degraded",
+    "uptime": "99.80%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.80%",
+    "time": 479,
+    "timeDay": 3713,
+    "timeWeek": 1917,
+    "timeMonth": 732,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-04-14": 72
+      "2022-04-14": 161
     }
   }
 ]
