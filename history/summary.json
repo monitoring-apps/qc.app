@@ -45,18 +45,19 @@
     "url": "https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/api",
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg",
     "slug": "quirk-club-argentina-api-endpoint",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "97.34%",
+    "status": "degraded",
+    "uptime": "99.11%",
+    "uptimeDay": "97.31%",
     "uptimeWeek": "97.42%",
     "uptimeMonth": "97.06%",
-    "uptimeYear": "99.10%",
-    "time": 2701,
-    "timeDay": 3329,
-    "timeWeek": 2859,
-    "timeMonth": 2970,
-    "timeYear": 2701,
+    "uptimeYear": "99.11%",
+    "time": 2710,
+    "timeDay": 4674,
+    "timeWeek": 3102,
+    "timeMonth": 3029,
+    "timeYear": 2710,
     "dailyMinutesDown": {
+      "2022-10-18": 0,
       "2022-10-17": 38,
       "2022-10-16": 33,
       "2022-10-14": 98,
@@ -116,8 +117,7 @@
       "2022-06-09": 27,
       "2022-06-01": 45,
       "2022-05-31": 44,
-      "2022-05-26": 21,
-      "2022-05-25": 18
+      "2022-05-26": 21
     }
   },
   {
