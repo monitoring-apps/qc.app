@@ -22,18 +22,20 @@
     "url": "https://quirkclub.app",
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 90,
-    "timeWeek": 660,
-    "timeMonth": 229,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 343,
+    "timeWeek": 652,
+    "timeMonth": 241,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2023-07-03": 0
+    }
   },
   {
     "name": "Quirk Club Argentina (API endpoint)",
@@ -48,7 +50,7 @@
     "uptimeYear": "98.42%",
     "time": 2889,
     "timeDay": 202,
-    "timeWeek": 1622,
+    "timeWeek": 234,
     "timeMonth": 2151,
     "timeYear": 2873,
     "dailyMinutesDown": {
