@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 145,
-    "timeWeek": 115,
+    "timeDay": 31,
+    "timeWeek": 113,
     "timeMonth": 97,
-    "timeYear": 87,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 51,
-    "timeWeek": 434,
-    "timeMonth": 319,
+    "timeDay": 78,
+    "timeWeek": 436,
+    "timeMonth": 320,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2023-07-03": 44
@@ -44,17 +44,16 @@
     "slug": "quirk-club-argentina-api-endpoint",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "98.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "98.42%",
     "time": 2884,
-    "timeDay": 3076,
-    "timeWeek": 1191,
-    "timeMonth": 2254,
+    "timeDay": 3069,
+    "timeWeek": 1167,
+    "timeMonth": 2255,
     "timeYear": 2857,
     "dailyMinutesDown": {
-      "2023-07-06": 13,
       "2023-06-22": 16,
       "2023-06-20": 105,
       "2023-06-14": 17,
@@ -123,7 +122,7 @@
       "2022-10-18": 46,
       "2022-10-17": 38,
       "2022-10-16": 33,
-      "2022-10-14": 23
+      "2022-10-14": 98
     }
   },
   {
@@ -138,9 +137,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.56%",
     "time": 1218,
-    "timeDay": 466,
-    "timeWeek": 435,
-    "timeMonth": 1022,
+    "timeDay": 385,
+    "timeWeek": 431,
+    "timeMonth": 1016,
     "timeYear": 1296,
     "dailyMinutesDown": {
       "2023-06-20": 15,
@@ -201,9 +200,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
-    "timeDay": 83,
-    "timeWeek": 109,
-    "timeMonth": 227,
+    "timeDay": 79,
+    "timeWeek": 110,
+    "timeMonth": 228,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }
