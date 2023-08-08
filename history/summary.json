@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 31,
-    "timeWeek": 105,
-    "timeMonth": 100,
+    "time": 90,
+    "timeDay": 27,
+    "timeWeek": 83,
+    "timeMonth": 99,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 47,
-    "timeWeek": 86,
-    "timeMonth": 139,
+    "timeDay": 89,
+    "timeWeek": 81,
+    "timeMonth": 137,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-07-03": 44
@@ -43,18 +43,17 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg",
     "slug": "quirk-club-argentina-api-endpoint",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.85%",
+    "uptime": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "98.44%",
     "time": 2862,
-    "timeDay": 4596,
-    "timeWeek": 2608,
-    "timeMonth": 2993,
+    "timeDay": 4587,
+    "timeWeek": 2391,
+    "timeMonth": 2985,
     "timeYear": 2802,
     "dailyMinutesDown": {
-      "2023-08-07": 12,
       "2023-07-25": 16,
       "2023-07-24": 19,
       "2023-07-17": 19,
@@ -123,7 +122,8 @@
       "2022-10-21": 48,
       "2022-10-20": 99,
       "2022-10-19": 46,
-      "2022-10-18": 46
+      "2022-10-18": 46,
+      "2022-10-17": 38
     }
   },
   {
@@ -138,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1212,
-    "timeDay": 425,
-    "timeWeek": 474,
-    "timeMonth": 692,
+    "timeDay": 429,
+    "timeWeek": 457,
+    "timeMonth": 690,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2023-06-20": 15,
@@ -180,8 +180,7 @@
       "2022-09-28": 52,
       "2022-09-26": 33,
       "2022-09-22": 41,
-      "2022-09-19": 17,
-      "2022-08-08": 26
+      "2022-09-19": 17
     }
   },
   {
@@ -195,10 +194,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 37,
-    "timeWeek": 96,
-    "timeMonth": 119,
+    "time": 310,
+    "timeDay": 57,
+    "timeWeek": 90,
+    "timeMonth": 115,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }
