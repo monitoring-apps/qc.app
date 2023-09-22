@@ -1,7 +1,7 @@
 url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/api
-status: degraded
+status: up
 code: 200
-responseTime: 8483
-lastUpdated: 2023-09-22T14:17:42.396Z
+responseTime: 2131
+lastUpdated: 2023-09-22T14:29:27.677Z
 startTime: 2022-02-18T17:59:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
