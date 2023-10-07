@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 139,
-    "timeWeek": 149,
+    "timeDay": 205,
+    "timeWeek": 147,
     "timeMonth": 144,
     "timeYear": 96,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 167,
-    "timeDay": 1077,
-    "timeWeek": 1980,
-    "timeMonth": 778,
-    "timeYear": 190,
+    "time": 169,
+    "timeDay": 982,
+    "timeWeek": 1885,
+    "timeMonth": 808,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2023-07-03": 44
     }
@@ -44,15 +44,15 @@
     "slug": "quirk-club-argentina-api-endpoint",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "98.49%",
-    "time": 2758,
-    "timeDay": 3554,
-    "timeWeek": 2286,
-    "timeMonth": 2831,
-    "timeYear": 2806,
+    "time": 2750,
+    "timeDay": 216,
+    "timeWeek": 2198,
+    "timeMonth": 2832,
+    "timeYear": 2791,
     "dailyMinutesDown": {
       "2023-10-05": 27,
       "2023-10-02": 18,
@@ -137,12 +137,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 1164,
-    "timeDay": 415,
-    "timeWeek": 445,
-    "timeMonth": 838,
-    "timeYear": 1164,
+    "uptimeYear": "99.65%",
+    "time": 1165,
+    "timeDay": 447,
+    "timeWeek": 453,
+    "timeMonth": 837,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-06-20": 15,
       "2023-06-16": 47,
@@ -174,8 +174,7 @@
       "2022-11-09": 16,
       "2022-11-07": 31,
       "2022-10-11": 57,
-      "2022-10-10": 47,
-      "2022-10-07": 62
+      "2022-10-10": 47
     }
   },
   {
@@ -189,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 1456,
-    "timeWeek": 1660,
-    "timeMonth": 631,
-    "timeYear": 177,
+    "time": 167,
+    "timeDay": 1754,
+    "timeWeek": 1722,
+    "timeMonth": 688,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   }
 ]
