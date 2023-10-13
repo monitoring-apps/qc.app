@@ -180,17 +180,19 @@
     "url": "https://quirkclub-dev.web.app/ssr-check",
     "icon": "https://icons.duckduckgo.com/ip3/quirkclub-dev.web.app.ico",
     "slug": "quirk-club-argentina-ssr",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 1861,
-    "timeWeek": 1377,
-    "timeMonth": 929,
-    "timeYear": 201,
-    "dailyMinutesDown": {}
+    "time": 189,
+    "timeDay": 3138,
+    "timeWeek": 1757,
+    "timeMonth": 1041,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   }
 ]
