@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 39,
-    "timeWeek": 103,
-    "timeMonth": 125,
-    "timeYear": 101,
+    "timeDay": 228,
+    "timeWeek": 109,
+    "timeMonth": 131,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-argentina",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 314,
-    "timeDay": 1622,
-    "timeWeek": 1812,
-    "timeMonth": 1617,
-    "timeYear": 391,
+    "time": 315,
+    "timeDay": 568,
+    "timeWeek": 1333,
+    "timeMonth": 1591,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2023-10-28": 19,
       "2023-07-03": 44
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.50%",
-    "time": 2833,
-    "timeDay": 500,
-    "timeWeek": 214,
-    "timeMonth": 3522,
-    "timeYear": 2822,
+    "time": 2825,
+    "timeDay": 169,
+    "timeWeek": 227,
+    "timeMonth": 3518,
+    "timeYear": 2805,
     "dailyMinutesDown": {
       "2023-11-18": 250,
       "2023-11-17": 158,
@@ -116,8 +116,7 @@
       "2022-12-13": 17,
       "2022-12-09": 25,
       "2022-12-08": 27,
-      "2022-12-05": 16,
-      "2022-11-30": 25
+      "2022-12-05": 16
     }
   },
   {
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.64%",
-    "time": 1169,
-    "timeDay": 381,
-    "timeWeek": 377,
-    "timeMonth": 1759,
-    "timeYear": 1232,
+    "time": 1158,
+    "timeDay": 1030,
+    "timeWeek": 473,
+    "timeMonth": 1770,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2023-11-18": 19,
       "2023-11-16": 18,
@@ -167,8 +166,7 @@
       "2023-01-03": 17,
       "2022-12-19": 17,
       "2022-12-09": 24,
-      "2022-12-05": 15,
-      "2022-11-30": 24
+      "2022-12-05": 15
     }
   },
   {
@@ -182,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 355,
-    "timeDay": 1411,
-    "timeWeek": 1645,
-    "timeMonth": 1798,
-    "timeYear": 435,
+    "time": 358,
+    "timeDay": 1462,
+    "timeWeek": 1648,
+    "timeMonth": 1800,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2023-10-16": 20,
       "2023-10-13": 17
