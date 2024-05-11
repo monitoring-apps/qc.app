@@ -1,7 +1,7 @@
 url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/payment-gateway-ml
 status: up
 code: 200
-responseTime: 410
-lastUpdated: 2024-05-10T23:09:52.557Z
+responseTime: 560
+lastUpdated: 2024-05-11T23:09:50.025Z
 startTime: 2022-02-17T17:48:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
