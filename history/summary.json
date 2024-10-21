@@ -4,9 +4,9 @@
     "url": "https://quirkclub.io",
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-institutional",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 162,
     "timeMonth": 176,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "Quirk Club Argentina",
@@ -24,9 +26,9 @@
     "slug": "quirk-club-argentina",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1974,
     "timeDay": 1966,
@@ -34,7 +36,7 @@
     "timeMonth": 2818,
     "timeYear": 2439,
     "dailyMinutesDown": {
-      "2024-10-21": 0,
+      "2024-10-21": 27,
       "2024-09-23": 19,
       "2024-05-14": 26,
       "2024-01-05": 38,
