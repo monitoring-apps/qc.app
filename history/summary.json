@@ -4,11 +4,11 @@
     "url": "https://quirkclub.io",
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-institutional",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 150,
     "timeDay": 688,
@@ -16,6 +16,7 @@
     "timeMonth": 398,
     "timeYear": 163,
     "dailyMinutesDown": {
+      "2024-10-26": 1,
       "2024-10-21": 50
     }
   },
@@ -58,7 +59,7 @@
     "timeDay": 115,
     "timeWeek": 735,
     "timeMonth": 292,
-    "timeYear": 1604,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2024-05-17": 44,
       "2024-05-16": 21,
