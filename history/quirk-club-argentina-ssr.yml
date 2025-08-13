@@ -1,7 +1,7 @@
 url: https://quirkclub-dev.web.app/ssr-check
-status: down
+status: degraded
 code: 404
-responseTime: 105
-lastUpdated: 2025-08-12T23:12:59.704Z
+responseTime: 4448
+lastUpdated: 2025-08-13T17:34:10.432Z
 startTime: 2022-02-18T17:59:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
