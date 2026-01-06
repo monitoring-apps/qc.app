@@ -5,18 +5,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-institutional",
     "status": "down",
-    "uptime": "71.31%",
+    "uptime": "71.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 473,
+    "time": 478,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-05": 62,
+      "2026-01-06": 57,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -379,8 +380,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-argentina",
     "status": "down",
-    "uptime": "71.09%",
+    "uptime": "71.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1856,
+    "time": 1838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-05": 62,
+      "2026-01-06": 57,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -763,8 +764,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg",
     "slug": "quirk-club-argentina-api-endpoint",
     "status": "down",
-    "uptime": "71.15%",
+    "uptime": "71.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 285,
-    "timeDay": 100,
-    "timeWeek": 85,
+    "time": 284,
+    "timeDay": 91,
+    "timeWeek": 84,
     "timeMonth": 256,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-01-05": 62,
+      "2026-01-06": 57,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -1147,8 +1148,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/credit-card.svg",
     "slug": "quirk-club-argentina-payment-gateway",
     "status": "down",
-    "uptime": "71.41%",
+    "uptime": "71.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 176,
-    "timeDay": 15,
-    "timeWeek": 31,
-    "timeMonth": 41,
+    "timeDay": 41,
+    "timeWeek": 34,
+    "timeMonth": 40,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2026-01-05": 62,
+      "2026-01-06": 57,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -1531,8 +1532,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quirkclub-dev.web.app.ico",
     "slug": "quirk-club-argentina-ssr",
     "status": "down",
-    "uptime": "71.24%",
+    "uptime": "71.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 639,
-    "timeDay": 105,
-    "timeWeek": 81,
-    "timeMonth": 112,
+    "time": 636,
+    "timeDay": 111,
+    "timeWeek": 88,
+    "timeMonth": 114,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2026-01-05": 62,
+      "2026-01-06": 57,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -1915,8 +1916,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   }
 ]
