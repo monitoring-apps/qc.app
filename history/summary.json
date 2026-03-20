@@ -5,7 +5,7 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-institutional",
     "status": "down",
-    "uptime": "67.81%",
+    "uptime": "67.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 74,
+      "2026-03-20": 69,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -379,8 +380,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-argentina",
     "status": "down",
-    "uptime": "67.61%",
+    "uptime": "67.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 635,
+    "time": 637,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 74,
+      "2026-03-20": 69,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -763,8 +764,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg",
     "slug": "quirk-club-argentina-api-endpoint",
     "status": "down",
-    "uptime": "67.66%",
+    "uptime": "67.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 213,
-    "timeDay": 121,
-    "timeWeek": 106,
-    "timeMonth": 103,
+    "timeDay": 190,
+    "timeWeek": 120,
+    "timeMonth": 107,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-03-19": 74,
+      "2026-03-20": 70,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -1147,8 +1148,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/credit-card.svg",
     "slug": "quirk-club-argentina-payment-gateway",
     "status": "down",
-    "uptime": "67.91%",
+    "uptime": "67.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 62,
-    "timeDay": 49,
-    "timeWeek": 45,
+    "time": 61,
+    "timeDay": 30,
+    "timeWeek": 42,
     "timeMonth": 39,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2026-03-19": 74,
+      "2026-03-20": 70,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -1531,8 +1532,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quirkclub-dev.web.app.ico",
     "slug": "quirk-club-argentina-ssr",
     "status": "down",
-    "uptime": "67.75%",
+    "uptime": "67.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 262,
-    "timeDay": 81,
-    "timeWeek": 123,
-    "timeMonth": 126,
+    "timeDay": 65,
+    "timeWeek": 117,
+    "timeMonth": 124,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2026-03-19": 74,
+      "2026-03-20": 70,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -1915,8 +1916,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   }
 ]
