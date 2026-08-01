@@ -5,7 +5,7 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-institutional",
     "status": "down",
-    "uptime": "62.22%",
+    "uptime": "62.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 107,
+      "2026-08-01": 109,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -379,8 +380,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/logo-160x160.png",
     "slug": "quirk-club-argentina",
     "status": "down",
-    "uptime": "62.03%",
+    "uptime": "61.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 107,
+      "2026-08-01": 109,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -763,8 +764,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/tv-monitor.svg",
     "slug": "quirk-club-argentina-api-endpoint",
     "status": "down",
-    "uptime": "62.07%",
+    "uptime": "62.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 175,
-    "timeDay": 61,
-    "timeWeek": 58,
+    "timeDay": 45,
+    "timeWeek": 57,
     "timeMonth": 54,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-07-31": 107,
+      "2026-08-01": 109,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1147,8 +1148,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://quirkclub-dev.web.app/assets/icon/quirk-icons/notifications/credit-card.svg",
     "slug": "quirk-club-argentina-payment-gateway",
     "status": "down",
-    "uptime": "62.31%",
+    "uptime": "62.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 47,
-    "timeDay": 60,
-    "timeWeek": 57,
+    "timeDay": 40,
+    "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2026-07-31": 108,
+      "2026-08-01": 109,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1531,8 +1532,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quirkclub-dev.web.app.ico",
     "slug": "quirk-club-argentina-ssr",
     "status": "down",
-    "uptime": "62.16%",
+    "uptime": "62.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 227,
-    "timeDay": 18,
-    "timeWeek": 24,
+    "time": 226,
+    "timeDay": 12,
+    "timeWeek": 23,
     "timeMonth": 22,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-07-31": 108,
+      "2026-08-01": 109,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1915,8 +1916,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   }
 ]
