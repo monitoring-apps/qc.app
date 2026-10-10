@@ -1,7 +1,7 @@
 url: https://us-central1-quirkclub-dev.cloudfunctions.net/api/check/payment-gateway-ml
 status: down
 code: 404
-responseTime: 58
-lastUpdated: 2026-10-09T02:41:34.379Z
+responseTime: 60
+lastUpdated: 2026-10-10T02:01:27.173Z
 startTime: 2022-02-17T17:48:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
